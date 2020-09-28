@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.formulario{
+    width: 400px;
+    background-image: url("sharinga.jpg");
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: calibri;
+    color:black;
+    box-shadow: 7px 13px 37px #000 ;
+}
+
+.formulario h4{
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+body{
+    background-image:url('fondo.jpeg') ;
+}
+
+.controles{
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    border:1px solid #000000;
+    font-family: calibri;
+    font-size: 16px;
+}
+.formulario P{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+
+}
+
+.formulario a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+.formulario .boton{
+width: 100%;
+border: none;
+padding: 15px;
+background: #000000;
+color: white;
+margin: 15px 0;
+font-size: 15px;
+}
+
